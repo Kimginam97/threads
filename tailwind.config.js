@@ -214,5 +214,3 @@ module.exports = {
   },
   plugins: [require('tailwindcss-animate')],
 }
-
-export {} // Export an empty object to make it a module
